@@ -1,0 +1,33 @@
+{
+  "name": "simple-button-project",
+  "version": "1.0.0",
+  "description": "Button having icons that will be prefix and suffix",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadHuzaifa881/simple-button-package.git"
+  },
+  "keywords": [
+    "button",
+    "ui",
+    "button",
+    "design",
+    "button",
+    "npm"
+  ],
+  "author": "Muhammad Huzaifa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammadHuzaifa881/simple-button-package/issues"
+  },
+  "homepage": "https://github.com/MuhammadHuzaifa881/simple-button-package#readme",
+  "dependencies": {
+    "@ant-design/icons": "^5.3.0",
+    "@fortawesome/react-fontawesome": "github:fortawesome/react-fontawesome",
+    "@material-ui/core": "^4.12.4",
+    "styled-components": "^6.1.8"
+  }
+}
